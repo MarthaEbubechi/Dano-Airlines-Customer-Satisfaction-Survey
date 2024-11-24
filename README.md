@@ -19,10 +19,15 @@ back on track.
 
 ## Skills/concept demonstrated:
 The following power Bi features were incorporated;
-- Modelling, 
-- DAX,
-- Measures, 
-- Filters.
+- Data Cleaning and Transformation
+- Modelling
+- DAX
+- Measures
+- Data Visualization
+- Problem Solving
+
+## Tool used:
+- Power BI
 
 ## Modelling:
 There were no automatically derived relationships, so i adjusted to add the required relationships.
@@ -36,7 +41,7 @@ Auto Model                                           |         Adjusted Model
 - The dimension table is joined to the fact table with a one relationship.
 
 ## Visualization:
-The report comprises 4 pages:
+The report comprises 4 key insights:
 - 1:Customer type
 - 2:Travel type
 - 3:Customer class
