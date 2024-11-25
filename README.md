@@ -9,7 +9,7 @@ This is a power Bi project on customer satisfaction survey of a Uk-based airline
 headquartered in London, United Kingdom called **Dano Airlines**. This project is to analyze and recommend a data-driven strategy for increasing Dano Airlines' satisfaction rate,
 and present it in the form of a single page report or dashboard.
 
-**_Disclaimer_**:This dataset is for my final capstone project on my data analytics training to demonstrate my capabilities on power Bi. 
+**_Disclaimer_**:This dataset and report is for my final capstone project on my data analytics training to demonstrate my capabilities on power Bi. 
 
 ## Problem statement:
 - The latest passenger survey results just came in and it looks
