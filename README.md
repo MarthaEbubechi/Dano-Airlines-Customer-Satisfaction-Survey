@@ -54,7 +54,7 @@ Dashboard                                                       |      Dasboard 
 ![](Dashboard.png)                                              |![](Dashboard_report.png)
 
 ## Features:
-By clicking on the customers information (Gender, Customer type, Travel type ,Customer class and Age distribution)  you get to see each category's satisfaction levels on each of the services grouped into two
+By clicking on the customers information (Gender, Customer type, Travel type ,Customer class and Age distribution)  you get to see each category's satisfaction levels on each of the services grouped into two.
 
 ## Measures:
 - A total of 129,880 passengers were surveyed and 56428 out of them reported satisfied while 73452 expressed neutral or dissatisfied sentiment about their experiences.
