@@ -62,7 +62,7 @@ By clicking on the customers information (Gender, Customer type, Travel type ,Cu
 - In terms of customer loyalty, 82% are returning customers  indicating high rate of repeat business while 18% are first time flying customers.
 
 ## Analysis:
-### Customer type
+### Customer type:
 
 Returning                                                      |      First time
 :--------------------------------------------------------------:|:------------------------------------------------------------:
