@@ -5,11 +5,11 @@
 
 
 ## Introduction
-This is a power Bi project on customer satisfaction survey of a Uk-based airline
+This is a power BI project on customer satisfaction survey of a Uk-based airline
 headquartered in London, United Kingdom called **Dano Airlines**. This project is to analyze and recommend a data-driven strategy for increasing Dano Airlines' satisfaction rate,
 and present it in the form of a single page report or dashboard.
 
-**_Disclaimer_**:This dataset and report is for my final capstone project on my data analytics training to demonstrate my capabilities on power Bi. 
+**_Disclaimer_**:This dataset and report is for my final capstone project on my data analytics training to demonstrate my capabilities on power BI. 
 
 ## Problem statement:
 - The latest passenger survey results just came in and it looks
@@ -56,7 +56,7 @@ Dashboard                                                       |      Dasboard 
 ## Features:
 By clicking on the customers information (Gender, Customer type, Travel type ,Customer class and Age distribution)  you get to see each category's satisfaction levels on each of the services grouped into two
 
-## Insights:
+## Measures:
 - A total of 129,880 passengers were surveyed and 56428 out of them reported satisfied while 73452 expressed neutral or dissatisfied sentiment about their experiences.
 
 - In terms of customer loyalty, 82% are returning customers  indicating high rate of repeat business while 18% are first time flying customers.
